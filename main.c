@@ -3,13 +3,12 @@
 //#include <ctype.h>
 //#include <string.h>
 //#include <math.h>
-#include "passingVariables.h"
+#include "absoluteValues.h"
 
-void passByValue (int i);
-void passByValue (int i);
+int absoluteValue ();
 
 int main(){
 
-
-   return 0;
+    absoluteValue();
+    return 0;
 }
