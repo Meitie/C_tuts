@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="C_TutNotes" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/C_TutNotes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/C_TutNotes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Comments.h" />
+		<Unit filename="ConversionCharacters.h" />
+		<Unit filename="CreatingHeaderFile.h" />
+		<Unit filename="NestedIf.h" />
+		<Unit filename="PrintToScreen.h" />
+		<Unit filename="StringTerminator.h" />
+		<Unit filename="Variables.h" />
+		<Unit filename="absoluteValues.h" />
+		<Unit filename="appendFiles.h" />
+		<Unit filename="arrayPointers.h" />
+		<Unit filename="breakKeyword.h" />
+		<Unit filename="challengeTwo.h" />
+		<Unit filename="continueKey.h" />
+		<Unit filename="doWhileLoops.h" />
+		<Unit filename="elseIf.h" />
+		<Unit filename="forLoops.h" />
+		<Unit filename="functionsTut.h" />
+		<Unit filename="gettingInputwithScanf.h" />
+		<Unit filename="globalLocalVar.h" />
+		<Unit filename="heap.h" />
+		<Unit filename="ifElse.h" />
+		<Unit filename="ifStatements.h" />
+		<Unit filename="incrementalOperator.h" />
+		<Unit filename="intANDChar.h" />
+		<Unit filename="intFloatArrays.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="makingUppercase.h" />
+		<Unit filename="mathOperators.h" />
+		<Unit filename="orderOfOperations.h" />
+		<Unit filename="parralelArrays.h" />
+		<Unit filename="passingArgs.h" />
+		<Unit filename="passingVariables.h" />
+		<Unit filename="passwordCreateChallenge.h" />
+		<Unit filename="pointers.h" />
+		<Unit filename="pointersDereference.h" />
+		<Unit filename="putsGets.h" />
+		<Unit filename="randomAccessFile.h" />
+		<Unit filename="randomNumbers.h" />
+		<Unit filename="readFiles.h" />
+		<Unit filename="returnValues.h" />
+		<Unit filename="roundingNumbers.h" />
+		<Unit filename="shortHandIfElse.h" />
+		<Unit filename="sortingArrays.h" />
+		<Unit filename="stringLength.h" />
+		<Unit filename="stringManipulate.h" />
+		<Unit filename="stringPointers.h" />
+		<Unit filename="structures.h" />
+		<Unit filename="switchStatement.h" />
+		<Unit filename="testingAndConditionsInIf.h" />
+		<Unit filename="testingOrConditionsIf.h" />
+		<Unit filename="toIncrementAmounts.h" />
+		<Unit filename="typecasting.h" />
+		<Unit filename="upperOrLowerCase.h" />
+		<Unit filename="usingHeap.h" />
+		<Unit filename="valueToMultipleVariables.h" />
+		<Unit filename="whileLoops.h" />
+		<Unit filename="writingFiles.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

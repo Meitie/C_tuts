@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1574108017 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ifStatements.h"
+
+1573419266 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\printtoscreen.c
+	<stdio.h>
+	<stdlib.h>
+
+1573419567 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\comments.c
+
+1573419937 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\one-printtoscreen.c
+	<stdio.h>
+	<stdlib.h>
+
+1573420231 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\two-comments.c
+	<stdio.h>
+	<stdlib.h>
+
+1573587846 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\three-conversincharaters.c
+	<stdio.h>
+	<stdlib.h>
+
+1573588521 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\four-variables.c
+	<stdio.h>
+	<stdlib.h>
+
+1573589696 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\five-stringterminator.c
+	<stdio.h>
+	<stdlib.h>
+
+1573590322 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\six-creatingaheaderfile.c
+	<stdio.h>
+	<stdlib.h>
+	"Meitarsinfo.h"
+
+1573591207 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\meitarsinfo.h
+
+1573590939 source:c:\users\meitar segal\dev\c_tutorials\c_tutnotes\conversioncharacters.c
+
+1573590863 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\printtoscreen.h
+
+1573590798 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\comments.h
+
+1573591343 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\conversioncharacters.h
+
+1573590667 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\variables.h
+
+1573659065 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\stringterminator.h
+
+1573591432 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\creatingheaderfile.h
+	"Meitarsinfo.h"
+
+1574104361 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\gettinginputwithscanf.h
+
+1574105093 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\mathoperators.h
+
+1574105416 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\orderofoperations.h
+
+1574106047 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\valuetomultiplevariables.h
+
+1574106760 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\toincrementamounts.h
+
+1574107666 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\typecasting.h
+
+1574108541 c:\users\meitar segal\dev\c_tutorials\c_tutnotes\ifstatements.h
+
+1577814518 source:c:\users\meita\desktop\c_tutnotes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"passingVariables.h"
+
+1577046648 c:\users\meita\desktop\c_tutnotes\ifstatements.h
+
+1577119320 c:\users\meita\desktop\c_tutnotes\nestedif.h
+
+1577120480 c:\users\meita\desktop\c_tutnotes\ifelse.h
+
+1577121033 c:\users\meita\desktop\c_tutnotes\elseif.h
+
+1577122932 c:\users\meita\desktop\c_tutnotes\testingandconditionsinif.h
+
+1577123605 c:\users\meita\desktop\c_tutnotes\testingorconditionsif.h
+
+1577300662 c:\users\meita\desktop\c_tutnotes\shorthandifelse.h
+
+1577303548 c:\users\meita\desktop\c_tutnotes\incrementaloperator.h
+
+1577304262 c:\users\meita\desktop\c_tutnotes\whileloops.h
+
+1577321119 c:\users\meita\desktop\c_tutnotes\dowhileloops.h
+
+1577322236 c:\users\meita\desktop\c_tutnotes\forloops.h
+
+1577322708 c:\users\meita\desktop\c_tutnotes\breakkeyword.h
+
+1577323131 c:\users\meita\desktop\c_tutnotes\continuekey.h
+
+1577379532 c:\users\meita\desktop\c_tutnotes\switchstatement.h
+
+1577381451 c:\users\meita\desktop\c_tutnotes\intandchar.h
+
+1577381547 c:\users\meita\desktop\c_tutnotes\upperorlowercase.h
+
+1577462852 c:\users\meita\desktop\c_tutnotes\passwordcreatechallenge.h
+
+1577463383 c:\users\meita\desktop\c_tutnotes\strcatandstrcpy.h
+
+1577463937 c:\users\meita\desktop\c_tutnotes\stringmanipulate.h
+
+1577749945 c:\users\meita\desktop\c_tutnotes\putsgets.h
+
+1577750115 c:\users\meita\desktop\c_tutnotes\roundingnumbers.h
+
+1577750528 c:\users\meita\desktop\c_tutnotes\absolutevalues.h
+
+1577750960 c:\users\meita\desktop\c_tutnotes\randomnumbers.h
+
+1577751939 c:\users\meita\desktop\c_tutnotes\intfloatarrays.h
+
+1577753037 c:\users\meita\desktop\c_tutnotes\parralelarrays.h
+
+1577754045 c:\users\meita\desktop\c_tutnotes\sortingarrays.h
+
+1577755450 c:\users\meita\desktop\c_tutnotes\pointers.h
+
+1577789110 c:\users\meita\desktop\c_tutnotes\pointersdereference.h
+
+1577789991 c:\users\meita\desktop\c_tutnotes\arraypointers.h
+
+1577791038 c:\users\meita\desktop\c_tutnotes\stringpointers.h
+
+1577799258 c:\users\meita\desktop\c_tutnotes\usingheap.h
+
+1577807270 c:\users\meita\desktop\c_tutnotes\structures.h
+
+1577807948 c:\users\meita\desktop\c_tutnotes\writingfiles.h
+
+1577808406 c:\users\meita\desktop\c_tutnotes\readfiles.h
+
+1577808727 c:\users\meita\desktop\c_tutnotes\appendfiles.h
+
+1577811503 c:\users\meita\desktop\c_tutnotes\randomaccessfile.h
+
+1577812360 c:\users\meita\desktop\c_tutnotes\globallocalvar.h
+
+1577813164 c:\users\meita\desktop\c_tutnotes\passingargs.h
+
+1577814112 c:\users\meita\desktop\c_tutnotes\returnvalues.h
+
+1577814553 c:\users\meita\desktop\c_tutnotes\passingvariables.h
+
